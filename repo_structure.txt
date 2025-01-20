@@ -1,0 +1,33 @@
+BrainImageClassifier/
+├─ all_brain_images/
+│  ├─ manual_label/
+│  │  ├─ image.jpg or image.png
+│  │  ├─ etc...
+│  ├─ tumor_dataset/
+│  │  ├─ image.jpg or image.png
+│  │  ├─ etc...
+├─ all_non_brain/
+│  ├─ ct_scans/
+│  │  ├─ image.jpg or image.png
+│  │  ├─ etc...
+│  ├─ manual_label/
+│  │  ├─ image.jpg or image.png
+│  │  ├─ etc...
+│  ├─ rand_geographic/
+│  │  ├─ image.jpg or image.png
+│  │  ├─ etc...
+├─ data/
+│  ├─ test/
+│  ├─ train/
+├─ models/
+├─ notebooks/
+│  ├─ preprocessing_notebook.ipynb
+├─ src/
+│  ├─ dataset.py
+│  ├─ model.py
+│  ├─ utils.py
+│  ├─ __init__.py
+├─ main.py
+├─ README.md
+├─ repo_structure.txt
+├─ requirements.txt

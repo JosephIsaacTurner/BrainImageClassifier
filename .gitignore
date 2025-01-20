@@ -1,3 +1,25 @@
+models/
+/models/*
+/models
+models/*
+/downloaded_pdfs
+downloaded_pdfs/*
+downloaded_pdfs/
+/all_brain_images
+/all_non_brain
+all_brain_images
+all_non_brain
+/data/test
+/data/train
+/data/val
+data/test
+data/train
+data/val
+/data/*
+data/*
+data/
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
